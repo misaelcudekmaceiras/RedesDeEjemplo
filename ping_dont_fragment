@@ -1,0 +1,4 @@
+ping -M do -s 1490 google.com
+
+-s tamaño
+-M do   no fragmentar
